@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: LightSkyBlue;
+	
+}
+
+.a{
+	background-color: MediumBlue;
+	height: 40px;
+	color: 	white;
+	margin:	0;
+	font-size: 24px;
+	font-family: Arial;
+}
+.b{
+	background-color:LightSkyBlue;
+	height:50px;
+	width: 100px;
+}
+
+.imagem{
+	margin-left:10%;
+	height: 550px;
+	width: 	550px;
+	
+}
+
+.conteudo{
+	height: 500px;
+	width: 500px;
+	float: right;
+	margin-right:10%;
+}
+.cx1{
+	font-family: Arial;
+	font-size: 15px;
+}
